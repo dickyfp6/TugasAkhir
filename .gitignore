@@ -1,0 +1,73 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Data - Ignore raw/interim data, keep processed with LFS
+data/raw/*.csv
+data/raw/*.xlsx
+data/raw/*.json
+data/interim/*.csv
+data/interim/*.xlsx
+data/interim/*.json
+# data/processed/ - tracked with LFS, keep it
+
+# Models - Ignore large model files temporarily
+models/*.pkl
+models/*.h5
+models/*.pt
+models/*.pth
+models/*.joblib
+models/*.model
+
+# Logs and temporary files
+*.log
+*.tmp
+.cache/
+.pytest_cache/
+
+# Environment variables
+.env
+.env.local
+
+# OS generated files
+Thumbs.db
+.DS_Store
