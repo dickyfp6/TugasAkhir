@@ -1,0 +1,43 @@
+COLUMN MATCHING RESULT
+======================================================================
+
+Matched columns (37):
+  ✓ ID
+  ✓ Name
+  ✓ Food Group
+  ✓ Water (g)
+  ✓ Calories
+  ✓ Phosphorus, P (mg)
+  ✓ Sugars (g)
+  ✓ Potassium, K (mg)
+  ✓ Calcium (mg)
+  ✓ Carbohydrate (g)
+  ✓ Cholesterol (mg)
+  ✓ Saturated Fats (g)
+  ✓ Fat (g)
+  ✓ Magnesium (mg)
+  ✓ Sodium (mg)
+  ✓ Protein (g)
+  ✓ Zinc, Zn (mg)
+  ✓ Fiber (g)
+  ✓ Vitamin A, RAE (mcg)
+  ✓ Vitamin B-12 (mcg)
+  ✓ Vitamin B6 (mg)
+  ✓ Vitamin C (mg)
+  ✓ Iron, Fe (mg)
+  ✓ Biotin (B7) (mcg)
+  ✓ Fluoride, F (mcg)
+  ✓ Folate DFE (mcg)
+  ✓ Choline (mg)
+  ✓ Manganese (mg)
+  ✓ Selenium, Se (mcg)
+  ✓ Copper, Cu (mg)
+  ✓ Thiamin (B1) (mg)
+  ✓ Riboflavin (B2) (mg)
+  ✓ Niacin (B3) (mg)
+  ✓ Pantothenic acid (B5) (mg)
+  ✓ Vitamin D (mcg)
+  ✓ Vitamin E (Alpha-Tocopherol) (mg)
+  ✓ Vitamin K (mcg)
+
+Missing columns (0):

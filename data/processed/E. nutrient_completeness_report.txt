@@ -1,0 +1,71 @@
+LAPORAN KELENGKAPAN NUTRISI
+================================================================================
+
+Total data: 1,759,557 baris
+Total nutrisi: 34 kolom
+
+KATEGORI KELENGKAPAN:
+--------------------------------------------------------------------------------
+
+2. EXCELLENT (90-99%)
+  Jumlah: 2,545 baris (0.14%)
+  Range: 31 - 32 nutrisi
+  Rata-rata: 31.14 nutrisi
+
+3. GOOD (70-89%)
+  Jumlah: 16,525 baris (0.94%)
+  Range: 24 - 30 nutrisi
+  Rata-rata: 26.73 nutrisi
+
+4. MODERATE (50-69%)
+  Jumlah: 39,919 baris (2.27%)
+  Range: 17 - 23 nutrisi
+  Rata-rata: 18.95 nutrisi
+
+5. LOW (30-49%)
+  Jumlah: 1,229,847 baris (69.90%)
+  Range: 11 - 16 nutrisi
+  Rata-rata: 11.42 nutrisi
+
+6. VERY LOW (<30%)
+  Jumlah: 470,721 baris (26.75%)
+  Range: 0 - 10 nutrisi
+  Rata-rata: 6.37 nutrisi
+
+
+================================================================================
+DISTRIBUSI LENGKAP PER JUMLAH NUTRISI:
+================================================================================
+32 nutrisi ( 94.1%):        350 baris
+31 nutrisi ( 91.2%):      2,195 baris
+30 nutrisi ( 88.2%):        537 baris
+29 nutrisi ( 85.3%):      5,125 baris
+28 nutrisi ( 82.4%):        894 baris
+27 nutrisi ( 79.4%):      1,602 baris
+26 nutrisi ( 76.5%):      1,708 baris
+25 nutrisi ( 73.5%):      4,490 baris
+24 nutrisi ( 70.6%):      2,169 baris
+23 nutrisi ( 67.6%):      1,402 baris
+22 nutrisi ( 64.7%):      2,629 baris
+21 nutrisi ( 61.8%):      4,880 baris
+20 nutrisi ( 58.8%):      5,784 baris
+19 nutrisi ( 55.9%):      5,357 baris
+18 nutrisi ( 52.9%):      8,880 baris
+17 nutrisi ( 50.0%):     10,987 baris
+16 nutrisi ( 47.1%):     11,389 baris
+15 nutrisi ( 44.1%):     17,635 baris
+14 nutrisi ( 41.2%):     44,870 baris
+13 nutrisi ( 38.2%):     29,513 baris
+12 nutrisi ( 35.3%):    193,315 baris
+11 nutrisi ( 32.4%):    933,125 baris
+10 nutrisi ( 29.4%):     91,137 baris
+ 9 nutrisi ( 26.5%):     34,215 baris
+ 8 nutrisi ( 23.5%):     43,072 baris
+ 7 nutrisi ( 20.6%):     50,487 baris
+ 6 nutrisi ( 17.6%):     56,182 baris
+ 5 nutrisi ( 14.7%):    128,320 baris
+ 4 nutrisi ( 11.8%):     10,523 baris
+ 3 nutrisi (  8.8%):      5,847 baris
+ 2 nutrisi (  5.9%):      3,525 baris
+ 1 nutrisi (  2.9%):     33,485 baris
+ 0 nutrisi (  0.0%):     13,928 baris
